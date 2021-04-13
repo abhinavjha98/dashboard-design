@@ -132,15 +132,6 @@ At present, we officially aim to support the last two versions of the following 
 
 
 
-## Resources
-- Demo: <https://creativetimofficial.github.io/material-dashboard-pro/examples/dashboard.html>
-- Download Page: <https://www.creative-tim.com/product/material-dashboard-pro>
-- Documentation: <https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html>
-- License Agreement: <https://www.creative-tim.com/license>
-- Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues)
-- [Material Kit](https://www.creative-tim.com/product/material-kit?ref=github-md-free) - For Front End Development
-
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Material Dashboard. Here are some advices for our users that want to report an issue:
