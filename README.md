@@ -1,9 +1,6 @@
 # [Material Dashboard PRO](https://creativetimofficial.github.io/material-dashboard-pro/examples/dashboard.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard,%20a%20free%20Material%20Bootstrap%204%20Admin%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2Lyat1Y%20%23bootstrap%20%23material%20%23design%20%23developers%20%23freebie%20%20via%20%40CreativeTim)
 
 
- ![version](https://img.shields.io/badge/version-2.1.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
-
-
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-dashboard-pro-html/material-dashboard-pro.gif)
 
 Material Dashboard PRO is a Premium Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. It is based on the popular Bootstrap 4 framework and comes packed with multiple third-party plugins. All components are built to fit perfectly with each other, while aligning to the material concepts.
