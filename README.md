@@ -65,11 +65,6 @@ Let us know your thoughts below. And good luck with development!
 [View More](https://creativetimofficial.github.io/material-dashboard-pro/examples/dashboard.html).
 
 
-## Quick start
-
-- Buy from [Creative Tim](https://www.creative-tim.com/product/material-dashboard-pro)
-
-
 ## Documentation
 The documentation for the Material Dashboard PRO is hosted at our [website](https://demos.creative-tim.com/material-dashboard-pro/docs/2.1/getting-started/introduction.html).
 
